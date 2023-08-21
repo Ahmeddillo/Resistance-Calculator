@@ -2,8 +2,8 @@
 - 👀 I’m interested in hardware engineering
 program coding (C++ & python)
 SQL
-- 🔊 already can speak Turkish & English
-- 🔉 still learning German & Arabic
+- 🔊 Already can speak Turkish & English
+- 🔉 Still learning German & Arabic
 - 🌱 I’m currently learning hardware engineering and SQL
 - 💞️ I’m looking to collaborate on develop new hardware devices
 - 📫 How to reach me : ahmeddillo4444@gmail.com 
